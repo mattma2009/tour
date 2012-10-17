@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://mattma2009.github.com/tour/
+author: mattma2009
+pygments: true
+
