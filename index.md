@@ -1,5 +1,5 @@
 ---
-title: on the road!
+title: On The Road!
 layout: page
 ---
 
