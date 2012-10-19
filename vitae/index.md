@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历（mattma2009）
+title: 简历（mattma2009
 ---
 
 # 联系方式
