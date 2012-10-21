@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 规则引擎
+title:规则引擎
 categories: [tech]
 tags: [rules] [drools]
 ---
