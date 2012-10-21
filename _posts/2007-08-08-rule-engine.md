@@ -2,7 +2,7 @@
 layout: post
 title:规则引擎
 categories: [tech]
-tags: [rules] [drools]
+tags: [drools]
 ---
 
 前段时间，由于项目需要学习了一下规则引擎，做了一个简单的ppt： http://pickup.mofile.com/5415803283779027 ，主要把规则引擎的一些特点和开源规则引擎Drools介绍了一下。
