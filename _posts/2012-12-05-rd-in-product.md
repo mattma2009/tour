@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 产品研发管理总结
+title: 产品研发总结
 categories: [work]
 tags: [rd]
 ---
