@@ -1,1 +1,1 @@
-just a blog 
+Just a blog 
