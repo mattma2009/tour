@@ -35,4 +35,4 @@ tags: [shenzhen]
 
 ![](http://g.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=dc871cb6908fa0ec7bc7660916ac28d3/9d82d158ccbf6c813e5df26dbd3eb13532fa40c9.jpg)
 
-深圳很适合骑车，沿海大道一路有专门的自行车道，迎着海风骑着很舒服，恨不得把我的车寄过来。
+深圳很适合骑车，沿海大道一路有专门的自行车道，迎着海风骑着很舒服，恨不得把我的自行车寄过来。
