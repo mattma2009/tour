@@ -9,30 +9,30 @@ tags: [shenzhen]
 
 >福田体育公园跑步
 
-![](http://f.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=5a5fdbfb241f95caa2f592b3f92c0e03/314e251f95cad1c86ad322a27e3e6709c83d51cf.jpg?referer=1d43e291aa18972bfa2d34fa9fc5&x=.jpg)
+![](https://nuj3vq.bn1.livefilestore.com/y2p5tSSJ7_dp9w1NOIgz93fU4sb9LPNkXnTx5m4L642pN15kxYiZOYgyJ1NpiSD59J4KRyfJXj1NUKXEFf1-7dBxb7n6WLOACUptnOO0Vh4SfU/IMG_20130706_164642.jpg?psid=1)
 
 >世界之窗的大皇宫,比实物还是差很多。
 
-![](http://e.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=5b12004d1b4c510faac4e01e50625410/cc11728b4710b91214aa287bc2fdfc03934522c8.jpg)
+![](https://nuj3vq.bn1.livefilestore.com/y2pW2lv7KsfJst72F5yLKPDkt4dmQ1ad8SXOqw-x9BSt2vb_60b5YDY6dXunx7ZIJzx4eyYUYafYLriivgoXkU_vMzkHjkOceYAOaFw0arwTww/IMG_20130707_150842.jpg?psid=1)
 
 >日本桂离宫
 
-![](http://f.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=de718965f603918fd3d13fce610657aa/b2de9c82d158ccbfd1d76bbf18d8bc3eb03541c8.jpg)
+![](https://nuj3vq.bn1.livefilestore.com/y2p3tN0V8VD-IMz3jS6WDf42HDf5T6LVl9EhOlLw4TBcKaZr-QkkbVGY9QiRp6pugTDZTwJDP2jtLlUpi8g7m62Ii5AG-BOuR2FqwpnkI0Oujw/IMG_20130707_152049.jpg?psid=1)
 
 >荷兰的风车
 
-![](http://f.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=843e5114cc11728b342d8e26f8c7b2f3/9922720e0cf3d7ca2ef5e1f3f31fbe096b63a930.jpg)
+![](https://nuj3vq.bn1.livefilestore.com/y2pouG1kVS3nvTb-zLt06sGJhf3tvXpns-rd0Ug1kGrJnmyMyDU5DkcZ8wDVsU6VCpgqt7FI6fXHt840G6P6SMt4FaFfGve0-wNAj09FCj_19w/IMG_20130707_161800.jpg?psid=1)
 
 >凯旋门的表演
 
-![](http://h.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=e906e4060e2442a7aa0effa1e178dc76/c75c10385343fbf2c54678a6b17eca8064388fc9.jpg)
+![](https://nuj3vq.bn1.livefilestore.com/y2p_Em8mabNcfMiys5WhkTAx91JAQ6crBXtxUSvlF3lkgtV5DSgjonxIFTgAyR-pPVV4RgIq2nCc3OUBV4aujKtjKY5EmW_9fnHOrUl75t-ZkE/IMG_20130707_173944.jpg?psid=1)
 
 >深圳湾
 
-![](http://g.hiphotos.bdimg.com/album/s%3D680%3Bq%3D90/sign=87585114cc11728b342d8f2af8c7b2f3/730e0cf3d7ca7bcb5c1e19aabf096b63f724a8ca.jpg)
+![](https://nuj3vq.bn1.livefilestore.com/y2pgSiq1ZYZzLHS_IzT-Ue7TMId_BQgwf41Lw500McDAi5yxoURbC7yq3EJfr4B1Dmqra5sDCEOexT89MczUF0jket9t5vk0YqUdd63ghadkRU/IMG_20130713_183822.jpg?psid=1)
 
 >日落
 
-![](http://g.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=dc871cb6908fa0ec7bc7660916ac28d3/9d82d158ccbf6c813e5df26dbd3eb13532fa40c9.jpg)
+![](https://nuj3vq.bn1.livefilestore.com/y2p1mDsPCKoC3COW6mVwRpUmuWdrGigU18r0eRFG74w30o5rOabE4fMi98uM8jjh-tRsGUTy8B98IVKvNMvpyrikLviDRJTTJfI-twV67CnQwE/IMG_20130713_181948.jpg?psid=1)
 
 深圳很适合骑车，沿海大道一路有专门的自行车道，迎着海风骑着很舒服，恨不得把我的自行车寄过来。
