@@ -11,7 +11,7 @@ tags: [shenzhen]
 
 ![](http://f.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=8b76e2429152982201333bc7e7f10af6/314e251f95cad1c86ad322a27e3e6709c83d51cf.jpg)
 
->世界之窗的大皇宫
+>世界之窗的大皇宫,比实物还是差很多。
 
 ![](http://e.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=5b12004d1b4c510faac4e01e50625410/cc11728b4710b91214aa287bc2fdfc03934522c8.jpg)
 
