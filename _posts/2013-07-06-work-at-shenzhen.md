@@ -9,7 +9,7 @@ tags: [shenzhen]
 
 >福田体育公园跑步
 
-![](http://f.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=8b76e2429152982201333bc7e7f10af6/314e251f95cad1c86ad322a27e3e6709c83d51cf.jpg)
+![](http://f.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=5a5fdbfb241f95caa2f592b3f92c0e03/314e251f95cad1c86ad322a27e3e6709c83d51cf.jpg?referer=1d43e291aa18972bfa2d34fa9fc5&x=.jpg)
 
 >世界之窗的大皇宫,比实物还是差很多。
 
@@ -21,7 +21,7 @@ tags: [shenzhen]
 
 >荷兰的风车
 
-![](http://f.hiphotos.bdimg.com/album/s%3D680%3Bq%3D90/sign=ade23ab5bba1cd1101b671288929b9c1/9922720e0cf3d7ca2ef5e1f3f31fbe096b63a930.jpg)
+![](http://f.hiphotos.bdimg.com/album/s%3D740%3Bq%3D90/sign=843e5114cc11728b342d8e26f8c7b2f3/9922720e0cf3d7ca2ef5e1f3f31fbe096b63a930.jpg)
 
 >凯旋门的表演
 
