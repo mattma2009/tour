@@ -37,7 +37,7 @@ tags: [disney]
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2pXuHjSFoCM6WVHWecA_pY36rA2i_T3iE6GiqjhCME8Tka0TUcHgeI8J-xKYbFLFfOP3r3TDlG9uoaDLDpwU77_b74ERjv3osPIqXwAroUX2w/IMG_2933_%E5%89%AF%E6%9C%AC.jpg?psid=1)
 
-海港城转了一圈真心不适合我们这种某丝，出来溜达到弥敦道，还有什么港片里的钵兰街，旺角，腿都细了。在星光大道待了一会，看了幻彩咏香江，真心一般啊。
+海港城转了一圈真心不适合我们这种某丝，出来溜达到弥敦道，还有什么港片里的钵兰街，旺角，腿都细了。之后又在星光大道待了一会，看了幻彩咏香江，真心一般啊。
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2pVrTUOCyw3-rlci5OS7BLIMU76fZAAxxgrCSEnnaP42rc5meoldG78GOLj2uvYP5Q4y6gy6NdPYrzpbkDVvv8W889H617ALtBA_1ujQBXrTg/IMG_2984_%E5%89%AF%E6%9C%AC.jpg?psid=1)
 
