@@ -15,7 +15,7 @@ tags: [disney]
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2p5TwxUQ0X2iN5AgJqX3QjTZ3zXQF_9qSuU6NaV3fOlYlkmZS1g-p4XFTfyNH0RN1DdZFDeFl4vHdNi8zeqo7R9UjJ9WDVMqMR5z4NT-56hfQ/IMG_2823_%E5%89%AF%E6%9C%AC%201.jpg?psid=1)
 
-绕过城堡发现了丛林探险
+绕过城堡发现了丛林探险，那就进去溜达一圈
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2piJQCFFnpEi-lMfkz25wgmiCCxlOhjkcr2RQ48mNDVwIQJ6R8X8dmG1kKp4ZYZzliAy07YpZJvWysnd5xbCuUy0-LzgcCw2qjs1e7pan7f24/IMG_2826_%E5%89%AF%E6%9C%AC%201.jpg?psid=1)
 
