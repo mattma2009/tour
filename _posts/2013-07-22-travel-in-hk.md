@@ -33,7 +33,7 @@ tags: [disney]
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2pjx6VnkyiSFVrz-IEHWk_kr4SanKVugqal8iO4AoeXNySf_fFA3gyrIKp8plHBrXFffl6vbQ7rqqWwI9gnp_uY2fzHZmFSTDA_CcV_4Dnnk4/IMG_2917_%E5%89%AF%E6%9C%AC.jpg?psid=1)
 
-然后坐传说中的天星小轮，从湾仔穿过维多利亚港到尖沙咀，
+然后坐传说中的天星小轮，从湾仔穿过维多利亚港到尖沙咀，旺角
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2pXuHjSFoCM6WVHWecA_pY36rA2i_T3iE6GiqjhCME8Tka0TUcHgeI8J-xKYbFLFfOP3r3TDlG9uoaDLDpwU77_b74ERjv3osPIqXwAroUX2w/IMG_2933_%E5%89%AF%E6%9C%AC.jpg?psid=1)
 
