@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《打造facebook》读后感
+title: 打造facebook读后感
 categories: [work]
 tags: [book]
 ---
@@ -22,7 +22,4 @@ tags: [book]
 6、把流程、规范、质量要求、好理念全部固化到工具中，别让工程师时刻去想着，“don't make me think”。在使用工具的工程中自然形成好的习惯。这是很值得借鉴的。
 
 详细内容可参见：[读后感](http://sdrv.ms/11dK2DW)
-
-<iframe src="https://skydrive.live.com/embed?cid=A210676048CED36E&resid=A210676048CED36E%219017&authkey=AIVp73QUj9r9Wlc&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
-
 
