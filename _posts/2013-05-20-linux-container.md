@@ -1,6 +1,6 @@
 ---
 layout: post
-title: linuxcontainer-LXC
+title: LinuxContainer-LXC
 categories: [work]
 tags: [LXC]
 ---
