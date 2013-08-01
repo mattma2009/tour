@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tcp_tw_recycle和tcp_timestamps导致连接失败分析
+title: tcp_timestamps导致连接失败分析
 categories: [work]
 tags: [tcp]
 ---
