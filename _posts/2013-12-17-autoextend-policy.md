@@ -4,7 +4,7 @@ title:  弹性伸缩指标的选择
 categories: [work]
 tags: [paas]
 ---
-![](http://blog.donews.com/chenhaochenhao/files/2012/12/%E7%A8%8B%E5%BA%8F%E7%AE%97%E6%B3%95%E4%B8%8E%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9.jpg)
+![](https://zcvu4q.bn1303.livefilestore.com/y2p8aK5pteAExD_-4WW60pNbdSsq9TvHxdsg99FE7bx4Z_4JUAxmJrkQ0I4W5FrvetQCgnBsm-mERmmg2M-GNwVLcgJ56B5JI9uYMglZhc_Uuk/choice.jpg?psid=1)
 
 最近，关于paas中应用动态伸缩的指标进行了不少讨论。最初聚焦在CPU、内存、连接数等指标：
 
