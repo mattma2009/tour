@@ -19,6 +19,8 @@ tags: [shenzhen]
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2p3tN0V8VD-IMz3jS6WDf42HDf5T6LVl9EhOlLw4TBcKaZr-QkkbVGY9QiRp6pugTDZTwJDP2jtLlUpi8g7m62Ii5AG-BOuR2FqwpnkI0Oujw/IMG_20130707_152049.jpg?psid=1)
 
+![](http://f.hiphotos.bdimg.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=6c5f586b9d82d158bf8259b4b03168e5/b2de9c82d158ccbfd1d76bbf18d8bc3eb03541c8.jpg?referer=2f133d3dd53f87948ae87c1eafc6&x=.jpg)
+
 >荷兰的风车
 
 ![](https://nuj3vq.bn1.livefilestore.com/y2pouG1kVS3nvTb-zLt06sGJhf3tvXpns-rd0Ug1kGrJnmyMyDU5DkcZ8wDVsU6VCpgqt7FI6fXHt840G6P6SMt4FaFfGve0-wNAj09FCj_19w/IMG_20130707_161800.jpg?psid=1)
