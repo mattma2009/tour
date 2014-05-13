@@ -3,4 +3,5 @@ permalink: /:year/:month/:title/
 url: http://zhengxiu.name
 author: ZhengXiu
 pygments: true
+cdn_url: http://mattma2009.qiniudn.com
 
