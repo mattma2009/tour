@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 塞纳左岸，浪漫无边——巴黎圣母院
+title: 塞纳左岸慢生活——巴黎圣母院
 categories: [life]
 tags: [paris]
 ---
