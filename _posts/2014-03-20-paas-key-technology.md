@@ -17,9 +17,6 @@ tags: [paas]
 - 组件高可用性
 
 **容器（Container）技术**，随着PAAS的兴起，最近火的不行。从Docker迅速的崛起和各大公司的支持，可见一斑。简单的说Docker是一个构建在LXC之上的,基于进程容器(Processcontainer)的轻量级VM解决方案，这有一篇文章，[详细介绍Docker](http://blog.csdn.net/colorant/article/details/20608157)。我们采用LXC的初衷，主要看中其资源隔离、虚拟化开销小（进程级）、启动速度快、易于克隆和迁移、以及能够动态参数调整的特性。
-![](http://mattma2009.qiniudn.com/20140320paas/container1.jpg)
-![](http://mattma2009.qiniudn.com/20140320paas/container2.jpg)
-
 
 **动态伸缩机制和指标选择**，关于PAAS中应用和服务的动态伸缩指标的选择，我前面有一篇文章专门来讲，[传送门](http://zhengxiu.name/2013/12/autoextend-policy/)。当然，最近看到有些公司采用连接数和QPS等。但我觉得服务质量应该是这个问题的根。
 
@@ -29,3 +26,4 @@ tags: [paas]
 
 **IAAS适配和池管理**，采用抽象通用的适配层，不绑定任何一家的IAAS平台，当然也可以直接采用物理机，上面通过LXC进行隔离和使用。为提升申请或者归还的效率，特设计的虚拟机资源池的管理。
 
+![](http://mattma2009.qiniudn.com/20140320paas/container2.jpg)
