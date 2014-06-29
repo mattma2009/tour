@@ -31,15 +31,15 @@ tags: [tcp]
 > 
 > CLOSED：没有任何连接状态
 
-![](https://public.sn2.livefilestore.com/y1p6tKhPvwl2AUNFDA7SKuNfMA0CNogRqKSXgjGLKnKpNb97vOmuPuuqwJmRBIWxDsLJEIS7b6569_mLmD2wG5d2A/2810527642457071166.png?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/2810527642457071166.png)
 
-![](https://public.sn2.livefilestore.com/y1pDgbRI9bDAbiL3mEWdZMWRZ9gkDrjPG4peXAWfOHCQ09w8RIHHII6SWG603AI322DphZe4b3awvyaiX2dFawnNQ/641199996948314474.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/641199996948314474.jpg)
 
-![](https://public.sn2.livefilestore.com/y1pVL78oivizNsHYNiC2IosokDE4U975XXZWsSQCwhHw-_k9hMGOZbx93H1gTOdXGZ7rbR-d1JUYabvnzTEFMtcqg/641199996948314489.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/641199996948314489.jpg)
 
-![](https://public.sn2.livefilestore.com/y1pilxmj94VudPZqG3oP0cYQWkDpnJlQM4eabrevUlvwnohAtr6j1CP92yrH_tk6XLUHyZISCwVPo8iGnaQ6FSvPg/641199996948314512.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/641199996948314512.jpg)
 
-![](https://public.sn2.livefilestore.com/y1pYCLFXtdU6VgkWsogdtU1eFeobTsgBoKq-WCYkXqaZL8qtUq-s4zDgGliRdBh34vnsy1t0g-f1FKSAOIM_aJR4g/641199996948314522.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/641199996948314522.jpg)
 
 TCP连接的建立可以简单的称为三次握手，而连接的中止则可以叫做四次握手。
 

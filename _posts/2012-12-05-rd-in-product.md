@@ -31,7 +31,7 @@ tags: [r&d]
 1. Documents：产品研发管理以及产品本身文档。
 
 下面针对trunks下分支的处理情况，做一下详细说明：
-![](https://nuj3vq.blu.livefilestore.com/y2p4yjLIuZnKR4AcDRm_iNMulWeUBDTJ8CPm7JIhoHwu1NBEYKLPJQmRSRQQPgOwlvDXc1_wNRIR4itdLSxrOBoR1x_IBgeO8Mqk0OVUFmWbN0/merge.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/merge.jpg)
  
 - PatchLine用户提出的缺陷和简单通用需求都在此支工作，并merge到NewFeatureLine，需要形成最终补丁。
 - NewFeatureLine非用户提出，产品规划的较大块需求在此支上进行。不必形成补丁。

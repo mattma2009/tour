@@ -96,4 +96,4 @@ A，在那里（位置和现状）；B，去那里（目标和归宿）；C，�
 **5、得到反馈和证明**
 
 **6、工具**
-![](https://nuj3vq.sn2.livefilestore.com/y1phRvFyOIAElxj0_gEJ06CfINmk4Gde0gO-gb7FhRUNSkS_1XI5Oqh7R-mCqf_MFwQ-4dDRdaWQR9mBJdSg-1XWiBTW-kXBOnQ/%E6%97%A0%E6%A0%87%E9%A2%98.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/File39.jpg)

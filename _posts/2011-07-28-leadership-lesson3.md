@@ -31,4 +31,4 @@ tags: [training]
 
 - 平衡压力和价值做出选择；关注大画面来选择，而不只求安全和方便。
 
-![](https://nuj3vq.sn2.livefilestore.com/y1pdDHFPaCNT6TNtR5QqktcAayoPhuzOOoA0qMC0HFnjuDHcQ1d41E5MY56JPOuwXyD25CFQi5iTZMARKLSjmQiQKYPECTia3j0/IMG_20121225_211203.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/IMG_20121225_211203.jpg)

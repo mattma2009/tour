@@ -41,4 +41,4 @@ tags: [training]
 
 > 签订钻石契约，把钻石契约的重要贡献，做逻辑树分析（MECE，相互独立，完全穷尽），找出关键驱动因素并按照重要程度列出来，最后根据SMART原则确定阶段目标，并严格执行。
 
-![](https://nuj3vq.sn2.livefilestore.com/y1p55HpPNfAxqUZtzTdpnKBI18cMXzjEsLZOPo8tw_NggUzeUBzjR0vIw5txCZXsbuU7qrtcUyJ3532K49RkYHEpQKR2aG65jIY/pp.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/pp.jpg)

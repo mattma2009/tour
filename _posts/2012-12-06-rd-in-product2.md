@@ -12,13 +12,13 @@ tags: [r&d]
 
 **1)	针对补丁的流程**
 
-![](https://nuj3vq.blu.livefilestore.com/y2p_BUPEG7KYU8mPiUfpZ1OaRs53Kcg9zcMangvS9iq0OBxacEYUfH2D4b9j3N51raiwUCWsh_93gpdWntTztJOPsZFr71QUCkxYryGdMtjeJY/patch.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/patch.jpg)
  
 简单说明一下，上述红色节点是必须要体现的状态。自测完成状态，是因为之前补丁质量不好，为加强自测环节加入的节点。只有当Case进入自测完成阶段测试人员才会开始测试，不然是不会进行测试的。而结束测试状态也是必须要有的，只有当结束测试状态，开发人员才能把对应的代码提交配置库，并形成最终补丁（产出给客户的）。我们工具可以基于最终补丁打出需要发布的SP补丁包。另外，以上状态都是研发流程的关键节点，涉及不同角色的参与人，据此能有效统计当前工作情况以及工作瓶颈。
 
 **2)	针对新功能的流程**
 
-![](https://nuj3vq.blu.livefilestore.com/y2prL-pTngO5t-LFbUoRq7XCUVDLj9GvLFmUmiaAh69aRqOZTCdfUWmBYL8WVmanvVDw47gt1hLxut7a8-JC-2MbbpxVW54UyugwqkWuOcU_yQ/new.jpg?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/new.jpg)
  
 和上一个流程相比，这个流程一般是我们在开发自己规划的新功能时的流程，当完成到一定阶段，我们需要开发人员先自测完成，此过程相比上面不需要补丁，当提交到配置库之后，我们会打出一个全量版本（这是内部功能没有客户使用的），进行测试。
 

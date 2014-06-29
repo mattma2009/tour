@@ -8,7 +8,7 @@ tags: [training]
 钻石和石墨都是碳元素，石墨是片层结构可以滑动，所以一般用作润滑剂，钻石是世界上最坚硬的物质之一，因为是正四面体结构，四个面都是最稳定的三角形。支撑这个模型的五个点：Being/Vision/RealityMeaning/
 Doing，一个人如果他的这五个点完全整合，那他就像钻石一样坚不可摧。
 
-![](https://nuj3vq.sn2.livefilestore.com/y1pkgff0zGf6sX92Z3IYrDMDIBubape8k6nVFlTFhsE70XupTetNCQJa0FSRdWzfO3Jjz2JnIrhyBLHZuoKWrrPVGFdvdaop-mi/%E6%97%A0%E6%A0%87%E9%A2%98.png?psid=1)
+![](http://mattma2009.qiniudn.com/20140628onedrive/File40.png)
 
 **Being**：在这个阶段，先去树立自己的形象，达成目标的步骤都是从内心开始的，一个人外在的目标超不过他的自我形象。
 
