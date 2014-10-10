@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 浅谈paas的关键技术
+title: 浅谈PAAS的关键技术
 categories: [work]
 tags: [paas]
 ---
@@ -25,5 +25,3 @@ tags: [paas]
 **消息组件架构，解耦**，paas核心组件之间采用消息机制，包括请求响应以及发布订阅模式，使平台组件具备松耦合、自发现机制和高可用性；后来看cloudfoundry实现，竟然也采用的消息机制，可以说思路是比较接近的。
 
 **IAAS适配和池管理**，采用抽象通用的适配层，不绑定任何一家的IAAS平台，当然也可以直接采用物理机，上面通过LXC进行隔离和使用。为提升申请或者归还的效率，特设计的虚拟机资源池的管理。
-
-![](http://mattma2009.qiniudn.com/20140320paas/container2.jpg)

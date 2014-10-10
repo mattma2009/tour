@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第一场雪
+title: 新年第一场雪
 categories: [life]
 tags: [snow]
 ---
