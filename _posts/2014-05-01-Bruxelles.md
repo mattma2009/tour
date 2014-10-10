@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 漫步布鲁塞尔(4)—撒尿小童于连、漫画博物馆
+title: 漫步巴黎(4)—撒尿小童于连
 categories: [life]
 tags: [paris]
 ---

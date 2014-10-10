@@ -20,6 +20,5 @@ tags: [paris]
 
 ![](http://mattma2009.qiniudn.com/20140501pairs%2F2day-5.jpg)
 
-![](http://mattma2009.qiniudn.com/20140501pairs%2F2day-4.jpg)
 
 
