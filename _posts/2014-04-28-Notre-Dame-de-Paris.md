@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 漫步巴黎（一）：圣母院、卢浮宫
+title: 漫步巴黎—圣母院、卢浮宫
 categories: [life]
 tags: [paris]
 ---
