@@ -195,7 +195,7 @@ tags: [archsummit]
   
   <tr class="tracks">
     <td>专题</td>
-    <td width="273px"><strong><a href="http://bj2014.archsummit.com/node/498">智能硬件，更懂你</strong></a></td>
+    <td><strong><a href="http://bj2014.archsummit.com/node/498">智能硬件，更懂你</strong></a></td>
     <td><strong><a href="http://bj2014.archsummit.com/node/547">电商，不是搭个平台就能赢</strong></a></td>
     <td><strong><a href="http://bj2014.archsummit.com/node/558">移动互联网，随时随地</strong></a></td>
     <td><strong><a href="http://bj2014.archsummit.com/node/565">云计算与大数据，从技术选型说起</strong></a></td>
