@@ -28,13 +28,12 @@ tags: [archsummit]
 <tr>
     <td class="location">8:45</td>
     <td colspan="5">开场致辞</td>
-    </tr>
+</tr>
 
-    
+<tr>  
     <td>9:30</td>
-    <td colspan="5"><p><a href="http://bj2014.archsummit.com/node/624">论高度Web化之影响</a></br><a href="http://bj2014.archsummit.com/user/780">Dave Arel</a></td></p></tr>
-</td>
-    </tr>
+    <td colspan="5"><p><a href="http://bj2014.archsummit.com/node/624">论高度Web化之影响</a></br><a href="http://bj2014.archsummit.com/user/780">Dave Arel</a></td>
+</tr>
   <tr>
     <td  class="pple">10:15</td>
    <td colspan="5" class="pple">短休</td>
