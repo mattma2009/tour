@@ -34,18 +34,18 @@ tags: [archsummit]
     <td>9:30</td>
     <td colspan="5"><p><a href="http://bj2014.archsummit.com/node/624">论高度Web化之影响</a></br><a href="http://bj2014.archsummit.com/user/780">Dave Arel</a></td>
 </tr>
-  <tr>
-    <td  class="pple">10:15</td>
+ <tr>
+   <td  class="pple">10:15</td>
    <td colspan="5" class="pple">短休</td>
     </tr>
   <tr>
     <td>10:30</td>
     <td colspan="5"><p><a href="http://bj2014.archsummit.com/node/577">冯诺依曼等技术先贤留下的API规模经济启示</a></br><a href="http://bj2014.archsummit.com/user/802">Mike Amundsen</a></td></p>
     
-    </tr>
+   </tr>
   <tr>
     <td class="pple">11:15</td>
-   <td colspan="5" class="pple">短休</td>
+    <td colspan="5" class="pple">短休</td>
     </tr>
   <tr>
     <td>11:30</td>
@@ -55,7 +55,7 @@ tags: [archsummit]
   <tr>
     <td class="pple">12:15</td>
     <td colspan="5" class="pple">午餐</td>
-    </tr>
+   </tr>
   <tr class="tracks">
     <td>专题</td>
     <td><strong><a href="http://bj2014.archsummit.com/node/497">转型中的SNS</strong></a></td>
@@ -80,7 +80,7 @@ tags: [archsummit]
 	<td><a href="http://bj2014.archsummit.com/user/778">火币网 巨建华</a></td>
 	<td><a href="http://bj2014.archsummit.com/user/827">InfoQ 臧秀涛</a></td>
 	<td><a href="http://bj2014.archsummit.com/user/827">InfoQ 臧秀涛</a></td>
-</td>
+
 
     </tr>
 	
@@ -297,7 +297,7 @@ tags: [archsummit]
    
 </tr>
 
-  <!---->
+ 
 <tr>
     <td class="pple">12:15</td>
     <td colspan="5" class="pple">午餐</td>
