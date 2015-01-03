@@ -7,7 +7,7 @@ tags: [archsummit]
 
 最近参加了一下InfoQ的架构师大会，感觉还是有些收获。和以往相比感觉增加了硬件和互联网金融的专题，可见这两个方向近期的热度。好的先上日程：
 
- <table class="plan" cellspacing="0" cellpadding="0" width="900">
+<table class="plan" cellspacing="0" cellpadding="0" width="900">
   <col width="55" />
   <col  span="5" />
   <col  />
@@ -41,7 +41,6 @@ tags: [archsummit]
   <tr>
     <td>10:30</td>
     <td colspan="5"><p><a href="http://bj2014.archsummit.com/node/577">冯诺依曼等技术先贤留下的API规模经济启示</a></br><a href="http://bj2014.archsummit.com/user/802">Mike Amundsen</a></td></p>
-    
    </tr>
   <tr>
     <td class="pple">11:15</td>
@@ -50,7 +49,6 @@ tags: [archsummit]
   <tr>
     <td>11:30</td>
 	<td colspan="5"><p><a href="http://bj2014.archsummit.com/node/632">大数据的十个技术前沿</a></br><a href="http://bj2014.archsummit.com/user/857">英特尔中国研究院 吴甘沙</a></td></p>
-    
     </tr>
   <tr>
     <td class="pple">12:15</td>
@@ -63,7 +61,6 @@ tags: [archsummit]
 	<td><strong><a href="http://bj2014.archsummit.com/node/495">互联网金融</strong></a></td>
     <td><strong><a href="http://bj2014.archsummit.com/node/592">疯狂双十一的全栈技术路线图</strong></td>
     <td><strong><a href="http://bj2014.archsummit.com/node/591">云平台技术全景剖析</strong></a></td>
-
     </tr>
   <tr>
     <td class="location">地点</td>
@@ -80,17 +77,15 @@ tags: [archsummit]
 	<td><a href="http://bj2014.archsummit.com/user/778">火币网 巨建华</a></td>
 	<td><a href="http://bj2014.archsummit.com/user/827">InfoQ 臧秀涛</a></td>
 	<td><a href="http://bj2014.archsummit.com/user/827">InfoQ 臧秀涛</a></td>
-
-
     </tr>
 	
 <tr>
     <td>13:30</td>
     <td><p><a href="http://bj2014.archsummit.com/node/586">大数据时代的feed流架构</a></br>
 	<a href="http://bj2014.archsummit.com/user/791">新浪微博 杨卫华</a></p></td>
-	
+
 	<td><p><a href="http://bj2014.archsummit.com/node/573">互联网企业制胜利器——选对人、速度快</a></br>
-	<a href="http://bj2014.archsummit.com/user/795">奇虎360 谭晓生</a></p></td> 
+	<a href="http://bj2014.archsummit.com/user/795">奇虎360 谭晓生</a></p></td>
 	
     <td><p><a href="http://bj2014.archsummit.com/node/581">证券交易系统架构设计挑战与实施经验分享</a></br>
 	<a href="http://bj2014.archsummit.com/user/783">上交所 陈晨</a></p></td>  
@@ -100,13 +95,11 @@ tags: [archsummit]
 	
     <td><p><a href="http://bj2014.archsummit.com/node/616">云计算架构的实战案例</a></br>
 	<a href="http://bj2014.archsummit.com/user/841">阿里云 黄湘龙（龙觉）</a></p></td> 
-
    </tr>
    
   <tr>
     <td class="pple">14:15</td>
     <td colspan="5" class="pple">短休</td>
-    
   </tr>
   
 <tr>
@@ -302,24 +295,6 @@ tags: [archsummit]
     <td class="pple">12:15</td>
     <td colspan="5" class="pple">午餐</td>
 </tr>
-     <!--<tr class="tracks">
-    <td>专题</td>
-    <td><a href="http://bj2014.archsummit.com/node/551">知名企业架构演进之路</a></td>
-    <td><a href="http://bj2014.archsummit.com/node/547">前端的黄金时代</a></td>
-    <td><a href="http://bj2014.archsummit.com/node/500">自动化运维体系剖析</a></td>
-    </tr>  <tr>
-    <td class="location">地点</td>
-    <td>二号厅A</td>
-    <td>二号厅B</td>
-    <td>二号厅C</td>
-    </tr>
-    <tr>
-    <td>出品人</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>    
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    </tr>-->
 
 <tr>
     <td>13:30</td>
