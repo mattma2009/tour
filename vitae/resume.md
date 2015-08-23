@@ -100,6 +100,6 @@ title: 简历
 
 # <font size=4>联系方式 </font>
 
-Email：mazhengxiu@163.com  &  weixin：mattma2009 
+Email：mazhengxiu@163.com  &  weixin：mattma2009
 
 
