@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开放平台正式上线
+title: PAAS平台正式上线
 categories: [work]
 tags: [paas]
 ---
